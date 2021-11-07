@@ -3,7 +3,7 @@ import json
 #documentacao para consultas : http://apiadvisor.climatempo.com.br/doc/index.html
 #é preciso fazer algumas alterações por causa da API free.
 
-token = "2d3962cf2472db7aa9a69880d1781e84" #informe seu token
+token = "" #informe seu token
 city_id = 7564   #informe o id da sua cidade que esta relacionado com o token
 type_search = 3             #informe o codigo da consulta
 
