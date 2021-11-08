@@ -6,7 +6,7 @@ import PySimpleGUI as sg
 
 
 ## Manual program control ##
-token = "2d3962cf2472db7aa9a69880d1781e84" #inform your token - Attached in ID.
+token = " " #inform your token - Attached in ID.
 city_id = 0
 
 
